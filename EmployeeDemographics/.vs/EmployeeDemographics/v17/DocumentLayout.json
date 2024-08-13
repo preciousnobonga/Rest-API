@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Precious Nobonga\\Documents\\GitHub\\Rest-API\\EmployeeDemographics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD910B9-724A-455B-AF89-0D33C0EF1509}|EmployeeDemographics\\EmployeeDemographics.csproj|c:\\users\\precious nobonga\\documents\\github\\rest-api\\employeedemographics\\employeedemographics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD910B9-724A-455B-AF89-0D33C0EF1509}|EmployeeDemographics\\EmployeeDemographics.csproj|solutionrelative:employeedemographics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD910B9-724A-455B-AF89-0D33C0EF1509}|EmployeeDemographics\\EmployeeDemographics.csproj|c:\\users\\precious nobonga\\documents\\github\\rest-api\\employeedemographics\\employeedemographics\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD910B9-724A-455B-AF89-0D33C0EF1509}|EmployeeDemographics\\EmployeeDemographics.csproj|solutionrelative:employeedemographics\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD910B9-724A-455B-AF89-0D33C0EF1509}|EmployeeDemographics\\EmployeeDemographics.csproj|c:\\users\\precious nobonga\\documents\\github\\rest-api\\employeedemographics\\employeedemographics\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AD910B9-724A-455B-AF89-0D33C0EF1509}|EmployeeDemographics\\EmployeeDemographics.csproj|solutionrelative:employeedemographics\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 105,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Precious Nobonga\\Documents\\GitHub\\Rest-API\\EmployeeDemographics\\EmployeeDemographics\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeDemographics\\Program.cs",
+              "ToolTip": "C:\\Users\\Precious Nobonga\\Documents\\GitHub\\Rest-API\\EmployeeDemographics\\EmployeeDemographics\\Program.cs",
+              "RelativeToolTip": "EmployeeDemographics\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:59:07.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Precious Nobonga\\Documents\\GitHub\\Rest-API\\EmployeeDemographics\\EmployeeDemographics\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "EmployeeDemographics\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Precious Nobonga\\Documents\\GitHub\\Rest-API\\EmployeeDemographics\\EmployeeDemographics\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "EmployeeDemographics\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:27:46.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Precious Nobonga\\Documents\\GitHub\\Rest-API\\EmployeeDemographics\\EmployeeDemographics\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeDemographics\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Precious Nobonga\\Documents\\GitHub\\Rest-API\\EmployeeDemographics\\EmployeeDemographics\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeDemographics\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T09:24:22.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
