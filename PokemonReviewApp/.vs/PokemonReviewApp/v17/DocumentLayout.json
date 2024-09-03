@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Precious Nobonga\\Documents\\GitHub\\Rest-API\\PokemonReviewApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2641AD24-C916-46ED-AD07-51F3BFC38273}|PokemonReviewApp\\PokemonReviewApp.csproj|c:\\users\\precious nobonga\\documents\\github\\rest-api\\pokemonreviewapp\\pokemonreviewapp\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2641AD24-C916-46ED-AD07-51F3BFC38273}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2641AD24-C916-46ED-AD07-51F3BFC38273}|PokemonReviewApp\\PokemonReviewApp.csproj|c:\\users\\precious nobonga\\documents\\github\\rest-api\\pokemonreviewapp\\pokemonreviewapp\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2641AD24-C916-46ED-AD07-51F3BFC38273}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2641AD24-C916-46ED-AD07-51F3BFC38273}|PokemonReviewApp\\PokemonReviewApp.csproj|c:\\users\\precious nobonga\\documents\\github\\rest-api\\pokemonreviewapp\\pokemonreviewapp\\pokemonreviewapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2641AD24-C916-46ED-AD07-51F3BFC38273}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\pokemonreviewapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\Precious Nobonga\\Documents\\GitHub\\Rest-API\\PokemonReviewApp\\PokemonReviewApp\\Models\\Owner.cs",
+              "RelativeDocumentMoniker": "PokemonReviewApp\\Models\\Owner.cs",
+              "ToolTip": "C:\\Users\\Precious Nobonga\\Documents\\GitHub\\Rest-API\\PokemonReviewApp\\PokemonReviewApp\\Models\\Owner.cs",
+              "RelativeToolTip": "PokemonReviewApp\\Models\\Owner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:16:42.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\Precious Nobonga\\Documents\\GitHub\\Rest-API\\PokemonReviewApp\\PokemonReviewApp\\Models\\Pokemon.cs",
+              "RelativeDocumentMoniker": "PokemonReviewApp\\Models\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\Precious Nobonga\\Documents\\GitHub\\Rest-API\\PokemonReviewApp\\PokemonReviewApp\\Models\\Pokemon.cs",
+              "RelativeToolTip": "PokemonReviewApp\\Models\\Pokemon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:52:15.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PokemonReviewApp",
+              "DocumentMoniker": "C:\\Users\\Precious Nobonga\\Documents\\GitHub\\Rest-API\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
+              "RelativeDocumentMoniker": "PokemonReviewApp\\PokemonReviewApp.csproj",
+              "ToolTip": "C:\\Users\\Precious Nobonga\\Documents\\GitHub\\Rest-API\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
+              "RelativeToolTip": "PokemonReviewApp\\PokemonReviewApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T13:51:13.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
